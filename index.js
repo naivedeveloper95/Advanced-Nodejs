@@ -11,7 +11,8 @@ require('./services/passport');
 
 mongoose.Promise = global.Promise;
 mongoose.connect(keys.mongoURI, {
-  useMongoClient: true
+  useUnifiedTopology: true,
+  useNewUrlParser: true
 });
 
 const app = express();
