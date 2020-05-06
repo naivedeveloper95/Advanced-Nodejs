@@ -1,1 +1,1 @@
-# A Simple blogger application built on MERN stack with redis and AWS integrated.
+# A Simple blogger application built on MERN stack with redis and AWS integrated
