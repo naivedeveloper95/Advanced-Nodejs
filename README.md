@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/naivedeveloper95/Advanced-Nodejs.svg?branch=master)](https://travis-ci.org/naivedeveloper95/Advanced-Nodejs)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/243c2e572b4c4ddd933f5d69d893cdc5)](https://app.codacy.com/manual/naivedeveloper95/Advanced-Nodejs?utm_source=github.com&utm_medium=referral&utm_content=naivedeveloper95/Advanced-Nodejs&utm_campaign=Badge_Grade_Dashboard)
 ![Mark stale issues and pull requests](https://github.com/naivedeveloper95/Advanced-Nodejs/workflows/Mark%20stale%20issues%20and%20pull%20requests/badge.svg)
 
